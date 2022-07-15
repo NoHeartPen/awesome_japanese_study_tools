@@ -1,20 +1,20 @@
 # 使用方法
 
 如果你是第一次使用，请先登录[欧路词典官网](https://my.eudic.net/OpenAPI/Authorization)获取下图红框部分的内容
-![](Assets/Pasted%20image%2020220714111636.png)
+![](Assets/Pasted_image_20220714111636.png)
 
 启动GoldenDic软件，点击`编辑`
-![](Assets/Pasted%20image%2020220714113402.png)
+![](Assets/Pasted_image_20220714113402.png)
 点击`首选项`
-![](Assets/Pasted%20image%2020220714113725.png)
+![](Assets/Pasted_image_20220714113725.png)
 
 点击`高级`，设置红框所勾的地方
-![](Assets/Pasted%20image%2020220714113422.png)
+![](Assets/Pasted_image_20220714113422.png)
 
 设置好了之后，关闭页面，回到软件的启动页面
 
 找到`配置文件夹`这个按钮，点击打开文件夹
-![](Assets/Pasted%20image%2020220714112339.png)
+![](Assets/Pasted_image_20220714112339.png)
 
 把`.exe`和`setting.json`文件复制到这里
 
