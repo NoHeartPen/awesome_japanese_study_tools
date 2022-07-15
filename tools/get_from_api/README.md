@@ -4,7 +4,8 @@
 
 # 下载
 
-Github：[dist](dist)文件夹内的压缩包（在Github的[get_from_api](https://github.com/NoHeartPen/AwesomeJapaneseDictionary/tree/master/tools/get_from_api)的README页面内可以通过这种方式下载）
+Github：dist文件夹内的压缩包（在Github的get_from_api的README页面内可以通过这种方式下载）
+
 蓝奏云：[https://wwp.lanzouf.com/b011tqz9c  ](https://wwp.lanzouf.com/b011tqz9c  )密码:gbn2，文件名`get_from_api.zip`
 
 # 注意事项
@@ -13,16 +14,17 @@ Github：[dist](dist)文件夹内的压缩包（在Github的[get_from_api](https
 	1. 自行百度添加`白名单`/`信任区`的方法
 	2. 安装Python，直接跑源代码，具体安装过程及注意事项请自行搜索
 2. 如果你需要使用mdx词典的解释，请参考[【Anki插件篇】（04）批量制卡：Fast Word Query ]( https://zhuanlan.zhihu.com/p/81645669)
+	![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220715170152.png)
 3. 请保证`get_from_api.exe`和`get_from_api_setting.json`存放在同一文件夹下
 
 遇到问题，请灵活运用[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)中的方法与技巧。
 
 # 使用方法
 
-下载好软件之后，先用右键点击`get_from_api_setting.json`文件，选择`记事本`打开，根据自己的需要填入参数。(图不对，但没有太大影响，下图的工具也是我开发的，感兴趣的戳[AwesomeJapaneseDictionary/tools/get_note_from_eudic/csv2txt_for_anki](https://github.com/NoHeartPen/AwesomeJapaneseDictionary/tree/master/tools/get_note_from_eudic/csv2txt_for_anki))
-![](Assets/Pasted%20image%2020220715162933.png)
+下载好软件之后，先用右键点击`csv2txt_for_anki_setting.json`文件，选择`记事本`打开，根据自己的需要填入参数。(图不对，但没有太大影响，下图的工具也是我开发的，感兴趣的戳[AwesomeJapaneseDictionary/tools/get_note_from_eudic/csv2txt_for_anki](https://github.com/NoHeartPen/AwesomeJapaneseDictionary/tree/master/tools/get_note_from_eudic/csv2txt_for_anki))
+![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220715162933.png)
 下面逐项说明参数信息
-![](Assets/Pasted%20image%2020220715174349.png)
+![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220715174349.png)
 
 `AnkiexePath`：非必要参数，可不填
 示例：`D:\\03Program\\Anki\\anki.exe`（可通过[everything](https://www.voidtools.com/zh-cn/)搜索`anki.exe`快速获取）
@@ -30,7 +32,7 @@ Github：[dist](dist)文件夹内的压缩包（在Github的[get_from_api](https
 
 `authorization`：必要参数
 示例：如果你是第一次使用，请先登录[欧路词典官网](https://my.eudic.net/OpenAPI/Authorization)获取下图红框部分的内容
-![](Assets/Pasted_image_20220714111636.png)
+![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220714111636.png)
 
 `outpath`：必要参数
 示例：`D:\\Document\\Dairy\\Eudicmemo.txt`
