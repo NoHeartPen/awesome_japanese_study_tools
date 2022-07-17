@@ -4,7 +4,7 @@
 
 # 下载
 
-Github：dist文件夹内的压缩包（在Github的get_from_api的README页面内可以通过这种方式下载）
+Github：[dist](dist)文件夹内的压缩包（在Github的get_from_api的README页面内可以通过这种方式下载）
 
 蓝奏云：[https://wwp.lanzouf.com/b011tqz9c  ](https://wwp.lanzouf.com/b011tqz9c  )密码:gbn2，文件名`get_from_api.zip`
 
@@ -27,20 +27,20 @@ Github：dist文件夹内的压缩包（在Github的get_from_api的README页面�
 ![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220715174349.png)
 
 `AnkiexePath`：非必要参数，可不填
-示例：`D:\\03Program\\Anki\\anki.exe`（可通过[everything](https://www.voidtools.com/zh-cn/)搜索`anki.exe`快速获取）
-作用：提取完单词后会自动启动Anki
+- 示例：`D:\\03Program\\Anki\\anki.exe`（可通过[everything](https://www.voidtools.com/zh-cn/)搜索`anki.exe`快速获取）
+- 作用：提取完单词后会自动启动Anki
 
 `authorization`：必要参数
-示例：如果你是第一次使用，请先登录[欧路词典官网](https://my.eudic.net/OpenAPI/Authorization)获取下图红框部分的内容
-![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220714111636.png)
+- 示例：如果你是第一次使用，请先登录[欧路词典官网](https://my.eudic.net/OpenAPI/Authorization)获取下图红框部分的内容
+- ![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220714111636.png)
 
 `outpath`：必要参数
-示例：`D:\\Document\\Dairy\\Eudicmemo.txt`
-作用：就是想导入Anki的txt的地址。
+- 示例：`D:\\Document\\Dairy\\Eudicmemo.txt`
+- 作用：就是想导入Anki的txt的地址。
 
 如果程序正确运行的话，剪贴板会有`D:\\Document\\Dairy\\Eudicmemo.txt`，启动Anki后导入文件时可以`Ctrl+V`直接用，不用到处找文件。
 
-唯一需要注意的一点就是，路径只能是`\\`，不能是`/`，比如，最后一个路径不能写成`D:\Document\Dairy\Eudicmemo.txt`
+唯一需要注意的一点就是，路径只能是`\\`，不能是`/`或者`\`，比如，最后一个路径不能写成`D:\Document\Dairy\Eudicmemo.txt`（虽然这种形式更容易拿到）
 
 填完参数之后，以后每次都可以直接双击运行`get_from_api.exe`
 
