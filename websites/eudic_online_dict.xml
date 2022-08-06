@@ -34,7 +34,7 @@
 	<Groups />
 	<OnlineDicts>
 		<Item libid="11" url="https://bitex-cn.com/?m=Dic&amp;a=search&amp;dickeyword={w}" name="Bitex" visible="1" color="65280" official="0" />
-		<Item libid="80014" url="https://cn.bing.com/search?q={w}" name="Bing" visible="1" color="-16746281" official="0" />
+		<Item libid="80014" url="https://cn.bing.com/search?q={w} とは" name="Bing" visible="1" color="-16746281" official="0" />
 		<Item libid="46" url="https://cn.bing.com/images/search?q={w}" name="Bingimage" visible="1" color="-15625754" official="0" />
 		<Item libid="14" url="http://www.ctrans.org/search.php?word={w}&amp;opts=fw&amp;optext=%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%85%A8%E6%96%87%E6%A4%9C%E7%B4%A2" name="北辞郎" visible="1" color="65280" official="0" />
 		<Item libid="41" url="https://fanyi.baidu.com/?aldtype=16047#jp/zh/{w}" name="BaiduTran" visible="1" color="-16777216" official="0" />
@@ -42,13 +42,6 @@
 		<Item libid="80009" url="https://cjjc.weblio.jp/content/{w}" name="白水社" visible="1" color="30935" official="0" />
 		<Item libid="80007" url="https://baike.baidu.com/item/{w}" name="百度百科" visible="1" color="16776960" official="0" />
 		<Item libid="80008" url="https://hanyu.baidu.com/s?wd={w}&amp;device=pc&amp;from=home" name="百度汉语" visible="0" color="11206655" official="0" />
-		<Item libid="27" url="https://kakijun.jp/m-s/ms_kensakupage.html" name="笔順-官网" visible="0" color="-15625754" official="0" />
-		<Item libid="49" url="https://cn.bing.com/search?q={w}+site%3Akakijun.jp" name="筆順" visible="1" color="-15890945" official="0" />
-		<Item libid="40" url="https://www.conanpedia.com/index.php?title=Special%3A%E6%90%9C%E7%B4%A2&amp;search={w}&amp;go=%E5%89%8D%E5%BE%80" name="Conan" visible="1" color="-15625754" official="0" />
-		<Item libid="47" url="https://m.douban.com/search/?query={w}" name="Douban" visible="1" color="-15625754" official="0" />
-		<Item libid="90026" url="http://www.freedictionary.org/?Query={w}" name="F" visible="0" color="12860503" official="1" />
-		<Item libid="19" url="https://dictionary.goo.ne.jp/srch/all/{w}/m0u/" name="Goo" visible="0" color="-15625754" official="0" />
-		<Item libid="80006" url="https://dictionary.goo.ne.jp/srch/all/{w}/m0u/" name="Goo" visible="1" color="30935" official="0" />
 		<Item libid="80012" url="https://www.google.com/search?q={w}" name="Google" visible="1" color="16776960" official="0" />
 		<Item libid="42" url="https://translate.google.com/?hl=zh-CN&amp;tab=TT&amp;sl=auto&amp;tl=zh-CN&amp;text={w}&amp;op=translate" name="GoogleTran" visible="1" color="-16777216" official="0" />
 		<Item libid="24" url="https://gogen-yurai.jp/?s={w}" name="語源" visible="1" color="-15625754" official="0" />
@@ -57,12 +50,13 @@
 		<Item libid="80004" url="https://dict.hjenglish.com/jp/jc/{w}" name="沪江小D" visible="0" color="0" official="0" />
 		<Item libid="17" url="https://ja.m.wikipedia.org/wiki/{w}" name="Ja-Wiki" visible="1" color="16776960" official="0" />
 		<Item libid="48" url="https://www.japandict.com/{w}" name="JapanDic" visible="1" color="-15890945" official="0" />
+		<Item libid="50" url="https://furigana.info/r/{w}" name="ふりがな文庫" visible="1" color="-15890945" official="0" />
 		<Item libid="13" url="https://moji.tekkai.com/zoom/{w}/page.html" name="拡大" visible="1" color="-15625754" official="0" />
 		<Item libid="25" url="https://gogen-yurai.jp/?s={w}" name="ことわざ" visible="1" color="-15625754" official="0" />
 		<Item libid="80013" url="https://www.kanjipedia.jp/search?k={w}&amp;kt=1&amp;sk=leftHand" name="漢字ペディア" visible="1" color="11206655" official="0" />
 		<Item libid="80005" url="https://renso-ruigo.com/word/{w}" name="連想" visible="1" color="30935" official="0" />
 		<Item libid="80015" url="https://mzh.moegirl.org.cn/index.php?search={w}&amp;title=Special:%E6%90%9C%E7%B4%A2&amp;profile=default&amp;fulltext=1&amp;searchToken=5xd9ynwfia7zikmq8ma292stwhttps://mzh.moegirl.org.cn/index.php?search={w}&amp;title=Special:%E6%90%9C%E7%B4%A2&amp;profile=default&amp;fulltext=1&amp;searchToken=5xd9ynwfia7zikmq8ma292stw" name="萌娘百科" visible="1" color="16776960" official="0" />
-		<Item libid="44" url="https://www.mojidict.com/" name="moji" visible="0" color="-15625754" official="0" />
+		<Item libid="44" url="https://www.mojidict.com/SearchText/{w}" name="MOJi" visible="1" color="-15625754" official="0" />
 		<Item libid="10" url="http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/sortprefix:accent/narabi1:kata_asc/narabi2:accent_asc/narabi3:mola_asc/yure:visible/curve:invisible/details:invisible/limit:20/word:{w}" name="OJAD" visible="1" color="-15625754" official="0" />
 		<Item libid="80003" url="http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/sortprefix:accent/narabi1:kata_asc/narabi2:accent_asc/narabi3:mola_asc/yure:visible/curve:invisible/details:invisible/limit:20/word:{w}" name="OJAD" visible="0" color="30935" official="0" />
 		<Item libid="23" url="http://search.yojijyukugo.com/search.cgi?charset=utf8&amp;q={w}&amp;s=%E6%A4%9C%E7%B4%A2" name="平明" visible="1" color="-15625754" official="0" />
@@ -75,5 +69,20 @@
 		<Item libid="9" url="https://www.weblio.jp/content/{w}" name="Weblio" visible="0" color="-15625754" official="0" />
 		<Item libid="45" url="https:/name-power.net/fn/{w}.html" name="姓名" visible="1" color="-15625754" official="0" />
 		<Item libid="18" url="https://chiebukuro.yahoo.co.jp/search?p={w}&amp;fr=common-navi" name="知恵袋" visible="1" color="-15625754" official="0" />
+		<Item libid="90022" url="https://www.merriam-webster.com/dictionary/{w}" name="韦氏" visible="0" color="0" official="1" />
+		<Item libid="90001" url="https://cn.bing.com/dict/search?q={w}" name="必应词典" visible="0" color="-10575266" official="1" />
+		<Item libid="90020" url="https://www.collinsdictionary.com/search/?dictCode=english&amp;q={w}" name="柯林斯" visible="0" color="10658398" official="1" />
+		<Item libid="90025" url="https://www.urbandictionary.com/define.php?term={w}" name="Urban" visible="0" color="6201950" official="1" />
+		<Item libid="90023" url="https://dictionary.cambridge.org/dictionary/english/{w}" name="剑桥词典" visible="0" color="16750026" official="1" />
+		<Item libid="90024" url="https://www.dictionary.com/browse/{w}" name="Dictionary" visible="0" color="13274879" official="1" />
+		<Item libid="90021" url="https://www.ldoceonline.com/search/english/direct/?q={w}" name="朗文当代" visible="0" color="4629503" official="1" />
+		<Item libid="90019" url="https://www.lexico.com/en/definition/{w}" name="Ox Living" visible="0" color="5086899" official="1" />
+		<Item libid="27" url="https://kakijun.jp/m-s/ms_kensakupage.html" name="笔順-官网" visible="0" color="-15625754" official="0" />
+		<Item libid="49" url="https://cn.bing.com/search?q={w}+site%3Akakijun.jp" name="筆順" visible="1" color="-15890945" official="0" />
+		<Item libid="40" url="https://www.conanpedia.com/index.php?title=Special%3A%E6%90%9C%E7%B4%A2&amp;search={w}&amp;go=%E5%89%8D%E5%BE%80" name="Conan" visible="1" color="-15625754" official="0" />
+		<Item libid="47" url="https://m.douban.com/search/?query={w}" name="Douban" visible="1" color="-15625754" official="0" />
+		<Item libid="90026" url="http://www.freedictionary.org/?Query={w}" name="F" visible="0" color="12860503" official="1" />
+		<Item libid="19" url="https://dictionary.goo.ne.jp/srch/all/{w}/m0u/" name="Goo" visible="0" color="-15625754" official="0" />
+		<Item libid="80006" url="https://dictionary.goo.ne.jp/srch/all/{w}/m0u/" name="Goo" visible="1" color="30935" official="0" />
 	</OnlineDicts>
 </Frhelper_Backup>
