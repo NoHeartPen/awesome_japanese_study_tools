@@ -30,5 +30,5 @@
 	- [ ] （比较相邻的2个单词在[-1]位置上的差别）
 	- [ ] 通过还原出原型载判断是否是重复单词
 - [ ] 支持后台定时运行
-	- [ ] （现阶段可借助Win计划任务程序实现自动上传传，或者使用[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具实现快捷上传）
+	- [ ] （现阶段可借助Win计划任务程序实现自动上传，或者使用[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具实现快捷上传）
 - [ ] 修复Win11下现无法关闭弹窗的问题（Win10下没有这个问题）
