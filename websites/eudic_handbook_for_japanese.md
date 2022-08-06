@@ -239,6 +239,16 @@ MOJi的在线词典功能虽然更鸡肋，但交互设计确实要好得多，�
 	- 这个只能自己手动输入一遍啦
 	- 当然也可以下载APP
 
+- [日本姓氏語源辞典](https://name-power.net/)
+	- [https://name-power.net/loose.php?n={w}](https://name-power.net/loose.php?n={w})
+	- 非常有趣，也非常专业介绍人名相关的知识
+	- ![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220806152908.png)
+
+- [ふりがな文庫](https://furigana.info/)
+	- [https://furigana.info/search?q={w}](https://furigana.info/search?q={w})
+	- 基于青空文库显示汉字对应读法的频率，对使用《大辞泉》等日语词典的很有帮助
+	- ![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220806155559.png)
+
 - [Yahoo知恵袋](https://chiebukuro.yahoo.co.jp/)
 - [https://chiebukuro.yahoo.co.jp/search?p={w}&fr=common-navi](https://chiebukuro.yahoo.co.jp/search?p={w}&fr=common-navi)
 	- 相当于国内的百度知道，如果查阅了以上的网站仍然搞不清楚某个词的用法，可以去这里试试看，
@@ -246,6 +256,7 @@ MOJi的在线词典功能虽然更鸡肋，但交互设计确实要好得多，�
 - [知乎](https://www.zhihu.com/)
 	- [https://www.zhihu.com/search?type=content&q={w}](https://www.zhihu.com/search?type=content&q={w})
 	- 知乎上还是有不少很有意思的问题
+
 -   [豆瓣](https://m.douban.com)
 	- [https://m.douban.com/search/?query={w}](https://m.douban.com/search/?query={w})
 	- 书籍、影视作品的翻译最好参考一下国内已经出版的译名
@@ -259,7 +270,7 @@ MOJi的在线词典功能虽然更鸡肋，但交互设计确实要好得多，�
 
 本文是[awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools)项目的文章，基于[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可，非商业转载请注明出处，禁止任何商业性质的转载。
 
-注：本文在如下网站有备份，如果有问题请尽量到[Github项](https://github.com/NoHeartPen/awesome_japanese_study_tools)处或通过邮箱NoHeartPen@outlook.com留言反馈，也非常欢迎大家补充各种可以添加到欧路词典的词典网站:)
+注：本文在如下网站有备份，如果有问题请尽量到[Github项](https://github.com/NoHeartPen/awesome_japanese_study_tools)处或通过邮箱[NoHeartPen@outlook.com](NoHeartPen@outlook.com)留言反馈，也非常欢迎大家补充各种可以添加到欧路词典的词典网站:)
 
 [有什么好用的日语词典软件？ - NoHeartPen的回答 - 知乎](https://www.zhihu.com/question/37052233/answer/2015870761)
 
