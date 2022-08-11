@@ -18,7 +18,6 @@
 
 文件夹下收录各类网站以及使用技巧，包括但不限于：词典网站、语料库、
 
-
 # 许可证
 
 除非特殊说明，本项目的文章都基于[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。

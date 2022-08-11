@@ -1,0 +1,9 @@
+{
+    "APIURL": "https://api.frdic.com/api/open/v1/studylist/words",
+    "AddedWordURL": "https://api.frdic.com/api/open/v1/studylist/words/0?language=en&category_id=0",
+    "AuthorizationUrl": "https://api.frdic.com/api/open/v1/studylist/category?language=en",
+    "Authorization": "1234567890",
+    "SleepTime": 0.5,
+    "AutoDelete":""
+}
+

@@ -1,4 +1,6 @@
-from operator import imod
+'''
+本脚本用于将GoldenDict的查词历史中的单词同步至欧路词典
+'''
 import requests
 import os
 import re
@@ -6,15 +8,26 @@ import sys
 import time
 import json
 
-# 悬浮窗显示运行结果
+# 直接使用Python脚本的同学请修改下面这行文件的路径
+#Path = os.chdir('D:\\03Program\\#Often\\GoldenDic\\portable')
 
 
 def SleepCMD():
     time.sleep(SettingDict['SleepTime'])
 
 
-path = os.chdir(
-    r"D:\03Program\#Often\GoldenDic\portable")  # 注意
+def AutoDelete():  # 上传完成后用空字符串覆盖文件，注意只有当GoldenDict未被启动时才能真正覆盖，在GoldenDict启动期间，GoldenDict只会向该文件写入查词历史，而不会读取其中的词条。关闭软件时，GoldenDict会将本次运行前的查询历史保存到history文件中，下次启动时，会读取其中的词条，生成软件界面的查询历史。
+    if SettingDict['AutoDelete'] == "on":
+        with open('history', 'w', encoding='utf-8') as File:
+            File.write("")
+            print("启动自动删除，并成功自动删除")
+    elif SettingDict['AutoDelete'] == 'off':
+        print("不启动自动删除")
+    elif SettingDict['AutoDelete'] == '':
+        print("默认不启动自动删除")
+    else:
+        print("启动自动删除，但AutoDelete函数异常，用户在配置文件中填入的是："+SettingDict['AutoDelete'])
+
 
 ProcessFilePath = os.getcwd()
 
@@ -64,7 +77,7 @@ with open(r'history', 'rt', encoding='UTF-8') as file:
             continue
         elif NewWord not in AddedWord.text:
 
-            # 通过比较第一个字符，判断是否是同一单词
+            # 通过比较第一个字符，判断是否是同一单词，注意这种方法存在一定的缺陷！
             NewVerb = NewWord[0:1]
             if NewVerb == LastVerb:
                 continue
@@ -74,8 +87,10 @@ with open(r'history', 'rt', encoding='UTF-8') as file:
         else:
             print(NewWord + "出现异常")
 
+
 if len(UploadWords) == 0:
     print("无新单词需要添加")
+    AutoDelete()
     SleepCMD()
     sys.exit()
 
@@ -90,4 +105,5 @@ addwordresponse = AddWord.text.replace('}', "")
 addwordresponse = addwordresponse.replace('{"message":', '')
 
 print(addwordresponse)
+AutoDelete()
 SleepCMD()
