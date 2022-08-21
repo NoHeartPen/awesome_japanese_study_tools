@@ -8,11 +8,18 @@ import sys
 import time
 import json
 
+ProcessPath = r''  # 你可以在这里直接填入GoldeDict的history文件所在的文件夹，示例：D:\GoldenDic\portable
+
+if len(sys.argv) == 2:  # 请计划任务程序中的'动作'的'添加参数'中填入路径，不用\\转义
+    ProcessPath = sys.argv[1]
 # 直接使用Python脚本的同学请修改下面这行文件的路径
-#Path = os.chdir('D:\\03Program\\#Often\\GoldenDic\\portable')
+    Path = os.chdir(ProcessPath)
+    print(Path)
+elif ProcessPath != '':
+    Path = os.chdir(ProcessPath)
 
 
-def SleepCMD():
+def SleepCMD():  # 悬浮窗显示运行结果
     time.sleep(SettingDict['SleepTime'])
 
 

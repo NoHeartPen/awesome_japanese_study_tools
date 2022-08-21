@@ -58,9 +58,44 @@
 
 如果你不想每次都自己双击脚本，你可以借助Windows的计划任务程序，每隔5分钟自动同步一次。
 
-需要注意的是在Win11系统上这样做的话，每隔5分钟就会有一个弹窗一闪而过，所以你最好通过其他方式来快速执行这个脚本，比如[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具。
+## 通过Win11自带的计划任务程序自动同步
 
-我也会尽量想办法解决这个问题，请耐心等待。
+右键点击屏幕左下角的Win徽标，选择`计算机管理`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145049.png)
+
+双击`任务计划程序`，
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145156.png)
+选择`创建任务`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145240.png)
+
+名称和样例随意，但是请将用户账户设置为SYSTEM，不然脚本每次执行都会有弹窗，打开`更改用户或组`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com/20220821143329.png)
+
+点击`高级`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821143555.png)
+点击`立即查找`（如果搜索结果是空白的话）
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821143704.png)
+下划，找到`SYSTEM`，点击选择，然后点击`确定`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821144429.png)
+就会发现`SYSTEM`，出现在下列位置，然后我们点击`确定`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821144522.png)
+然后我们选择`触发器`，新建
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145507.png)
+
+选择`一次`，`重复任务间隔5分钟`，`持续时间无限期`，这个脚本就会以每5分钟一次频率永远自动执行。
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821144806.png)
+设置完成后，我们点击`确定`，然后点击`操作`，点击左下角的`新建`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145719.png)
+点击`浏览`，找到下载的脚本文件，也就是我们前面提到的那个`portable`文件下面的文件
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145758.png)
+找到之后，（直接跑源代码和exe文件的操作都是一样的），选择`打开`，注意，如果你是用的Win提供的`复制文件地址功能`，请删除首尾的`""`双引号
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145913.png)
+然后在`添加参数`里面输入GoldeDict的history文件所在的文件夹，示例：`D:\GoldenDic\portable`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145943.png)
+
+设置就完成了，点击确定返回即可，之后就不用操心同步的问题了。
+
+你也可以通过其他方式来快速执行这个脚本，比如[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具，这里就不展开了，欢迎大家分享自己的经验。
 
 # 遇到了问题？
 
@@ -83,13 +118,13 @@
 	- [x] （显示上传结果）
 - [x] 支持删除已同步的单词
 	- 需要在关闭GoldenDict的前提下运行脚本才有效
-- [ ] 通过`setting.json`保存、自定义设置
+- [x] 通过`setting.json`保存、自定义设置
 	- 在任务计划程序的`添加参数`，填入GoldenDict的portable文件夹的绝对路径
 - [ ] 不上传动词变形
 	- [ ] （比较相邻的2个单词在[-1]位置上的差别）
 	- [ ] 通过“日本語非辞書形辞典”项目判断是否是重复单词
 - [ ] 支持后台定时运行
-	- [ ] （现阶段可借助Win计划任务程序实现自动上传，或者使用[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具实现快捷上传）
-- [ ] 修复Win11通过计划任务程序无法关闭弹窗的问题（Win10下没有这个问题）
+	- [x] （现阶段可借助Win计划任务程序实现自动上传，或者使用[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具实现快捷上传）
+- [x] 修复Win11通过计划任务程序无法关闭弹窗的问题（Win10下没有这个问题）
 
 注：本文是[goldendic2eudic](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/golden2eudic/)项目的说明文档。
