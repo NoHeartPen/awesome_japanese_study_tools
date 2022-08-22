@@ -73,10 +73,6 @@ with open(csvpath, 'r', encoding='UTF-8') as processfile:
 with open(outpath, 'w', encoding='UTF-8') as outputfile:
     outputfile.writelines(lines)
 
-# 以默认的打开方式启动最后的md文件？
-
-# noteapppath =  r'C:\Users\无心散卓\AppData\Local\Obsidian\Obsidian.exe'
-
 os.system(
     r'notepad ' + outpath
 )  # MyKeyMap指令 cmd.exe /c "python D:\Document\03Code\02Python\all2eudic\csv2md.py"
