@@ -2,9 +2,9 @@
 
 你可以通过下面的2种方式，下载名为`ebwin2eudic.zip`的文件。其他文件可以不下载。
 
-[Gitee](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/golden2eudic/dist)，由于政策原因，这种方式下载需要扫码注册登录
+[Gitee](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/ebwin2eudic/dist)，由于政策原因，这种方式下载需要扫码注册登录
 
-[GitHub](https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/golden2eudic/dist)，如果你不能访问Google主页，推荐使用上面的下载方式
+[GitHub](https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/ebwin2eudic/dist)，如果你不能访问Google主页，推荐使用上面的下载方式
 
 # 使用方法
 
@@ -148,20 +148,4 @@
 
 如果你有什么建议，欢迎提出来，我非常愿意让这个项目帮助到更多人:)。
 
-- [x] 导出的xml文件的时间戳不是北京时间，而是伦敦时间，会有一定的误差
-- [x] 优化大多数Markdown笔记软件的所见即所得的效果导致复制时容易选中多余的标点符号（比如`清浄`这样被包裹起来的）
-- [x] 不重复导入已经导入的单词
-- [x] 自定义弹窗时间
-	- [x] （显示上传结果）
-- [x] 支持删除已同步的单词
-	- 需要在关闭GoldenDict的前提下运行脚本才有效
-- [x] 通过`setting.json`保存、自定义设置
-	- 在任务计划程序的`添加参数`，填入GoldenDict的portable文件夹的绝对路径
-- [ ] 不上传动词变形
-	- [ ] （比较相邻的2个单词在[-1]位置上的差别）
-	- [ ] 通过“日本語非辞書形辞典”项目判断是否是重复单词
-- [ ] 支持后台定时运行
-	- [x] （现阶段可借助Win计划任务程序实现自动上传，或者使用[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具实现快捷上传）
-- [x] 修复Win11通过计划任务程序无法关闭弹窗的问题（Win10下没有这个问题）
-
-注：本文是[goldendic2eudic](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/golden2eudic/)项目的说明文档。
+注：本文是[ebwin2eudic](https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/ebwin2eudic)项目的说明文档。
