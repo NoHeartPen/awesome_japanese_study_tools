@@ -1,0 +1,10 @@
+{
+    "APIURL": "https://api.frdic.com/api/open/v1/studylist/words",
+    "AddedWordURL": "https://api.frdic.com/api/open/v1/studylist/words/0?language=en&category_id=0",
+    "AuthorizationUrl": "https://api.frdic.com/api/open/v1/studylist/category?language=en",
+    "Authorization": "0123456789",
+    "SleepTime": 0.5,
+    "AutoDelete":"on",
+    "HistoryFilePath":"C:\\Users\\你的用户名注意是2个斜杠\\AppData\\Roaming\\EBWin4\\history.dat"
+}
+
