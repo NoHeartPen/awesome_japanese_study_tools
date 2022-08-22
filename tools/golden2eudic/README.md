@@ -74,7 +74,7 @@
 
 右键点击屏幕左下角的Win徽标，选择`计算机管理`
 
-<img src="https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220821145049.png" width="500">
+<img src="https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com/20220822194038.png" width="500">
 
 双击`任务计划程序`，
 
