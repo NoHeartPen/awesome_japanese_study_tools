@@ -1,0 +1,30 @@
+* 2009-05-26: More stems were added for the GoldenDict project. Those are
+  useless for spellchecking, there is no point in adopting those changes
+  for spellcheckers.
+
+
+This package was debianized by Rene Engelhard <rene@debian.org> on
+Tue, 17 Jun 2003 19:33:47 +0200.
+
+It was downloaded from CVS:
+        export CVSROOT=":pserver:anoncvs@anoncvs.services.openoffice.org:/cvs"
+        cvs login
+        <empty password>
+        cvs co -r OOC680_m5 dictionaries
+
+Upstream Authors: Gianluca Turconi <luctur@openoffice.org>,
+                    Davide Prina <davideprina@yahoo.com>
+
+Copyright:
+
+The Italian dictionary and affix file for the MySpell spell-checker used by
+OpenOffice.org are released by Davide Prina davideprina<at>yahoo<dot>com (please
+change <at> with @ and <dot> with . in order to contact the authors) under the
+terms and conditions of the GNU General Public License (GPL) version 3.0 or
+above. The user, distributor and/or programmer after accept this license when
+he/she uses, distributes and/or modifies these files. He/she must agree with
+every term and condition included in the chosen license
+
+On Debian systems the full text of the GPL could be found in
+/usr/share/common-licenses/GPL.
+

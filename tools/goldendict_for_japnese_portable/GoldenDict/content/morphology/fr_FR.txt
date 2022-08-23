@@ -1,0 +1,24 @@
+This package was debianized by Rene Engelhard <rene@debian.org> on
+Mon, 02 Mar 2009 01:55:53 +0100.
+
+It was downloaded from CVS:
+        svn co svn://svn@svn.services.openoffice.org/ooo/tags/OOO310_m2/dictionaries
+
+Upstream copyright & license:
+
+This product is made available subject to the terms of GNU Lesser General Public License Version 3. A copy of the LGPL license can be found at http://www.openoffice.org/license.html
+
+------------------------------------
+Third Party Code. Additional copyright notices and license terms applicable to portions of the Software are set forth in the THIRDPARTYLICENSEREADME.html file.
+
+------------------------------------
+All trademarks and registered trademarks mentioned herein are the property of their respective owners.
+
+------------------------------------
+Copyright 2002,2008 Sun Microsystems, Inc.
+
+------------------------------------
+
+On Debian Systems, a copy of the LGPL v3 could be found on
+/usr/share/common-licenses/LGPL-3.
+

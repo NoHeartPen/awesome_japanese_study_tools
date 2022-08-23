@@ -1,0 +1,39 @@
+* 2009-05-26: More stems were added for the GoldenDict project. Those are
+  useless for spellchecking, there is no point in adopting those changes
+  for spellcheckers.
+
+
+This package was debianized by Rafael Laboissiere <rafael@debian.org> on
+Fri, 29 Jun 2007 17:02:52 +0200.
+
+It was downloaded from http://www.broffice.org.br/verortografico
+
+Upstream Author: Raimundo Santos Moura <raimundo.smoura@gmail.com>
+  and others from the BrOffice.org team (see
+  http://www.openoffice.org.br/?q=creditos)
+
+
+Copyright (C) 2006 - 2009 por Raimundo Santos Moura
+                             <raimundomoura@openoffice.org>
+
+License:
+***********************************************************************
+* Este é um dicionário para correção ortográfica da língua Portuguesa *
+* para o Myspell.                                                     *
+* Este programa é livre e pode ser redistribuído e/ou modificado nos  *
+* termos da GNU Lesser General Public License (LGPL) versão 2.1.      *
+***********************************************************************
+
+[translation of the above in English:
+
+This is the spelling dictionary for Portuguese for Myspell.
+This program is free and can be redistributed and/or modified under the
+terms of the GNU Lesser General Public License (LGPL) version 2.1.]
+
+
+The Debian packaging is © 2007, 2009 Rafael Laboissiere
+<rafael@debian.org> and is licensed under the GPL, version 3 or later,
+see `/usr/share/common-licenses/GPL-3'.  The full text of the LGPL
+license can be found in `/usr/share/common-licenses/LGPL-2.1'.
+
+
