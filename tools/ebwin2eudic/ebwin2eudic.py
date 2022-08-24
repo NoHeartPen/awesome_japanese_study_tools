@@ -9,14 +9,18 @@ ProcessPath = r''  # 你可以在这里直接填入GoldeDict的history文件所�
 if len(sys.argv) == 2:  # 请计划任务程序中的'动作'的'添加参数'中填入路径，不用\\转义
     ProcessPath = sys.argv[1]
 # 直接使用Python脚本的同学请修改下面这行文件的路径
-    ProcessPath = os.chdir(ProcessPath)
-    print(ProcessPath)
+    Path = os.chdir(ProcessPath)
+    print('通过命令行指定路径：'+ProcessPath)
 elif ProcessPath != '':
-    ProcessPath = os.chdir(ProcessPath)
+    Path = os.chdir(ProcessPath)
+    print('通过源代码指定路径'+ProcessPath)
 elif ProcessPath == '':
-    ProcessPath = os.getcwd() # 直接双击运行脚本
+    ProcessPath = os.getcwd()  # 直接双击运行脚本源代码，不能用于exe文件，适用于MyKeyMap
+    print('使用默认的源代码路径'+ProcessPath)
 
 # 悬浮窗显示运行结果的时间
+
+
 def SleepCMD():
     time.sleep(SettingDict['SleepTime'])
 

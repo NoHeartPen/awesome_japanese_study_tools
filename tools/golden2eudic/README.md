@@ -132,6 +132,9 @@
 
 你也可以通过其他方式来快速执行这个脚本，比如[MyKeymap](https://xianyukang.com/MyKeymap.html#mykeymap-%E7%AE%80%E4%BB%8B)、[Quiker](https://getquicker.net/)等工具，这里就不展开了，欢迎大家分享自己的经验。
 
+使用Quicker的注意事项：注意红框的位置填入上面提到的文件夹路径，前面还要加一个空格
+![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com/20220824103434.png)
+
 # 遇到了问题？
 
 如果你确定自己的每一步都是按照教程执行，但还是遇到问题，你可以通过我的邮箱NoHeartPen@outlook.com向我寻求帮助。
