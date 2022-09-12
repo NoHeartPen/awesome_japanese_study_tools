@@ -1,4 +1,4 @@
-先说我的推荐：Android 端 欧路词典+ EBPoctet，电脑端 GoldenDic。
+先说我的推荐：Android 端 欧路词典+ EBPocket，电脑端 GoldenDic。
 
 下面按照软件上手难度递增，介绍下接触过的同类软件。
 
@@ -42,7 +42,7 @@
 数据是《现代日汉汉日词典》
 收词：日汉一万八千，汉日一万八千
 
-### Google Play Store 上架的日语词典App
+## Google Play Store 上架的日语词典App
 
 虽然[该网站](http://blog.sina.cn/dpool/blog/u/3704881170#type=-1)给出了原文词典App的文件，但要安装到手机上，还有很多繁琐的步骤，所以请根据自己的能力和时间决定是否要花时间来折腾。
 
@@ -58,7 +58,7 @@
 
 再提下欧路的在线词典，详细的操作步骤在[欧路词典在线词典功能上手指南 · 语雀 (yuque.com)](https://www.yuque.com/noheartpen/pm4130/ya7enc)
 
-## [EBPoctet](http://ebstudio.info/manual/EBPocket_android/)
+## [EBPocket](http://ebstudio.info/manual/EBPocket_android/)
 
 作者提供了免 Google 框架的免费版本的APK文件：[EBPocket.apk](http://ebstudio.info/download/ebpocket/1_15_0/EBPocket.apk)，但是这个非常旧了，虽然能用，但是不能加载太多的词典。
 
@@ -68,7 +68,7 @@
 
 这个实际上要与Anki搭配使用，上手难度极大，可以参考作者的[Anki03_AnkiHelper](PureWriter/Anki03_AnkiHelper.md)
  
-# 电脑端
+# Windows 端
 
 之前介绍的词典软件大都由有自己的网页版，在电脑上都能用。
 
@@ -90,7 +90,7 @@
 
 ## GoldenDict
 
-可以直接使用[goldendict_for_japnese_portable](goldendict_for_japnese_portable)开箱即用版，相关评价也在那个文件夹下。
+可以直接使用[goldendict_for_japnese_portable](goldendict_for_japnese_portable)开箱即用版，相关评价和教程在[README.md](goldendict_for_japnese_portable\README.md)。
 
 # 浏览器拓展
 
@@ -112,4 +112,4 @@
 
 由于都是国外开发者开发，所以干脆放在一起说。
 
-上手难度都比较大，作者也没怎么仔细研究，只是简单体验了下。可能是由于是为了日语学习而设计，所以有些细节做得比沙拉查词好: 比如 Yomichan 除了可以与 Anki 搭配，还可以导入 EBwin 格式的词典。
+上手难度都比较大，作者也没怎么仔细研究，只是简单体验了下。由于是专门为了日语学习而设计，所以有些细节做得比沙拉查词好: 比如 Yomichan 除了可以与 Anki 搭配，还可以导入 EBwin 格式的词典，对于动词活用变形也有一定的支持。
