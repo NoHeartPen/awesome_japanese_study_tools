@@ -2,7 +2,7 @@
 
 # 日语词典 APP
 
-[awesome_japanese_dictionaries](awesome_japanese_dictionaries.md)：简单介绍市面上的日语词典 APP
+[awesome_japanese_dictionaries_app](awesome_japanese_dictionaries_app.md)：简单介绍市面上的日语词典 APP
 
 [goldendict_for_japnese_portable](goldendict_for_japnese_portable)：一个基于[goldendic](https://github.com/xiaoyifang/goldendict)的二次分发版本，适度做了一些优化。
 
