@@ -92,7 +92,7 @@ body {
 
 ### [Mdict](https://mdict.org/post/mdx/)
 
-一个纯粹的资源站，提供的字典有很多精品
+一个纯粹的资源站，提供的字典有很多精品，但是访问有点慢。
 
 ### [FreeDic论坛](https://forum.freemdict.com/)
 
