@@ -64,7 +64,7 @@
 
 词典资源可以参考[【资源分享】史上最强词典EBPocket安装教程+24G词典资源免费放送](https://mp.weixin.qq.com/s/RYUHtLszaD6I7enp518L-g)和知乎这个回答
 
-## AnkiHelper(https://github.com/mmjang/ankihelper)
+## [AnkiHelper](https://github.com/mmjang/ankihelper)
 
 这个实际上要与Anki搭配使用，上手难度极大，可以参考作者的[Anki03_AnkiHelper](PureWriter/Anki03_AnkiHelper.md)
  
@@ -73,6 +73,18 @@
 之前介绍的词典软件大都由有自己的网页版，在电脑上都能用。
 
 下列介绍词典软件都需要自己下载词典文件的外壳软件，如果只需要一个可查词的网站，请参考[websites](websites)部分的内容。
+
+另外，接下来介绍的软件，都在不同程度上支持剪贴板查词，也就是像这样：
+
+![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//_00_00_00-00_00_30.gif)
+
+但就整体效果而言：
+1. GoldenDict：需要借助[日本語非辞書辞書](https://github.com/NoHeartPen/JapaneseConjugation)项目的 v2 版本的`日本語非辞書辞書.mdx`文件 和[ hunspell_ja_JP](https://github.com/MrCorn0-0/hunspell_ja_JP)，才可以可以实现完美的划词体验
+2. 欧陆词典：无法处理形容词，以及特殊标记，但是支持多重嵌套（使被态、部分简单的句型），
+3. 沙拉查词：无法处理用言变形，但是可以借助 [日本語非辞書辞書](https://github.com/NoHeartPen/JapaneseConjugation) v3版本来实现类似 GoldenDict 的查词体验
+4. EBWin：无法处理用言变形，但是可以通过 [日本語非辞書辞書](https://github.com/NoHeartPen/JapaneseConjugation) v3版本来实现类似 GoldenDict 的查词体验
+5. MOJi辞書 Plugin ： 准确率不稳定，向开发者反应过相关问题，以后也许会提高准确率
+6. Yomichan 和 rikaikun ：支持简单的动词活用，没有第三方的工具来提高准确率
 
 ## 欧路词典
 
@@ -94,7 +106,7 @@
 
 # 浏览器拓展
 
-推荐使用Microsoft Edge 浏览器，兼容 Chrome 的拓展，不用FQ
+推荐使用 Microsoft Edge 浏览器，兼容 Chrome 的拓展，不用FQ
 
 ## [沙拉查词](https://saladict.crimx.com/)
 
@@ -104,7 +116,7 @@
 2. 可以和Anki、欧路词典、扇贝单词等同步单词本，但需要自己动手
 3. 内置沪江小D 和 Weblio 辞書，基本满足日常需要
 
-## [MOJi](https://www.mojidict.com/article/1BvHLjMm8u)
+## [MOJi辞書 Plugin](https://www.mojidict.com/article/1BvHLjMm8u)
 
 还行，闲逛时也能学点日语，不过只能在浏览器内使用
 
