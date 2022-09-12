@@ -56,7 +56,7 @@
 
 买断制 78元，不过不解锁会员，单「查词」功能而言，几乎没有影响影响（会员功能主要是云同步）
 
-再提下欧路的在线词典，详细的操作步骤在[欧路词典在线词典功能上手指南 · 语雀 (yuque.com)](https://www.yuque.com/noheartpen/pm4130/ya7enc)
+再提下欧路的在线词典，详细的操作步骤在[eudic_handbook_for_japanese](../websites/eudic_handbook_for_japanese.md)
 
 ## [EBPocket](http://ebstudio.info/manual/EBPocket_android/)
 
