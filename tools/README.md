@@ -6,6 +6,8 @@
 
 [goldendict_for_japnese_portable](goldendict_for_japnese_portable)：一个基于[goldendic](https://github.com/xiaoyifang/goldendict)的二次分发版本，适度做了一些优化。
 
+[anki](anki)：把Anki用来背日语单词的教程
+
 # 小工具
 
 ## Sync to Eudic | 多端同步查词记录
