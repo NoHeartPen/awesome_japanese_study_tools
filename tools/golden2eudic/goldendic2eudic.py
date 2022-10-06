@@ -19,8 +19,9 @@ elif ProcessPath != '':
     Path = os.chdir(ProcessPath)
     print('通过源代码指定路径'+ProcessPath)
 elif ProcessPath == '':
-    ProcessPath = os.getcwd() # 直接双击运行脚本源代码，不能用于exe文件，适用于MyKeyMap
+    ProcessPath = os.getcwd()  # 直接双击运行脚本源代码，不能用于exe文件，适用于MyKeyMap
     print('使用默认的源代码路径'+ProcessPath)
+
 
 def SleepCMD():  # 悬浮窗显示运行结果
     time.sleep(SettingDict['SleepTime'])

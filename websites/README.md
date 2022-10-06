@@ -1,3 +1,7 @@
+注：本文发布在如下平台有备份：
+
+[日语学习网站-语雀](https://www.yuque.com/noheartpen/pm4130/shhg25)
+
 # 辞典类
 
 这个太多了，单独列在其他文章。
@@ -117,7 +121,11 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 - [J-STAGE](https://www.jstage.jst.go.jp/)
 	- 可以免登录下载到论文
 - [CiNii](https://ci.nii.ac.jp/)
-	- 可以下载到部分论文。
+	- 可以通过`詳細検索`-`本文リンク`-`本文リンクあり`搜索可以下载的论文
+- [学術機関リポジトリデータベース](https://irdb.nii.ac.jp/)
+	- 在`ファイル`可以下载论文和其他数据
+- [国立国語研究所 日本語研究・日本語教育文献データベース](https://bibdb.ninjal.ac.jp/bunken/ja/)
+	- 标注了`本文表示`可以下载
 
 ## 语言学
 
@@ -153,7 +161,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 	- PDF 格式，可下载
 - [国際日本文化研究センター](https://www.nichibun.ac.jp/ja/db/)
 	- 收录很多历史文化相关的资料
-- [东京大学东洋文化研究所データベース]((http://www.ioc.u-tokyo.ac.jp/database/index.html)
+- [东京大学东洋文化研究所データベース](http://www.ioc.u-tokyo.ac.jp/database/index.html)
 	- 收录了很多数据库
 - [东京大学东洋文化研究所东亚美术研究室](http://cpdb.ioc.u-tokyo.ac.jp/index.html)
 	- 主要是美术绘画有关的资料
@@ -230,7 +238,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 # 其他
 
 - [OJAD - 韻律読み上げチュータ スズキクン)](http://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
-   - 这个网页可以给一段话标出声调，也会提供机器生成的录音
+	- 这个网页可以给一段话标出声调，也会提供机器生成的录音
 - [国立国会図書館サーチ](http://iss.ndl.go.jp/)
 	- 读不了本文，适合人在日本的同学
 - [教案　初級文型とみんなの日本語の導入・練習・活動例](https://jn1et.com/kyouan/)
@@ -261,10 +269,8 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 [豆瓣_日本艺术史网络资源](https://www.douban.com/group/topic/28716549/?_i=29662804BPw6Kx)
 
+[炸鸡老师力荐：三个找日语论文的好去处，良心网站！](https://mp.weixin.qq.com/s/vA12nYTiPhGsqhh2gXsEcw)
+
 感谢 Ta 们的无私分享:)
 
 这篇文章是[awesome_japanese_study_tools](https://github.com/NoHeartPen/awesome_japanese_study_tools)项目的文章，如果你发现错别字或者想为这个文章添砖加瓦，欢迎提交 issue，或者通过[NoHeartPen@outlook.com](NoHeartPen@outlook.com)与我联系
-
-注：本文在如下网站有备份：
-
-[日语学习网站](https://www.yuque.com/docs/share/84e78457-029f-4b13-b087-72f576e41415?# 《日语学习网站》)
