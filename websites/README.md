@@ -140,6 +140,10 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 也能判定文章所用词汇的难易度，但不是按照 JLPT 难度划分，会返回更多数据
 - [少纳言——书面语用例大全](http://www.kotonoha.gr.jp/shonagon/)
   - 如题
+- [中納言 コーパス検索アプリケーション](https://chunagon.ninjal.ac.jp/)
+  - 需要注册才能使用
+  - 注册流程参考[【日语语料库】中纳言的注册与使用（BCCWJ）](https://www.bilibili.com/video/BV1TF411J7wB/)
+  - 使用方法参考[『日本語日常会話コーパス』―『中納言』の操作（講師 : 柏野和佳子）](https://youtu.be/7fSbEvbTmjc)
 - [NINJAL-LWP for TWC](https://tsukubawebcorpus.jp/)
   - 除了可检索单个词汇在各种情况和接续方式下的使用频率，还可以比较两个词汇的使用频率。
 - [日本語作文支援システム「なつめ」](https://hinoki-project.org/natsume/)
