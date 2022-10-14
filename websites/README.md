@@ -4,6 +4,8 @@
 
 [日语学习网站 - 知乎](https://zhuanlan.zhihu.com/p/571025834)
 
+[Github 项目地址](https://github.com/NoHeartPen/awesome_japanese_study_tools/blob/master/websites/README.md)
+
 # 辞典类
 
 这个太多了，单独列在其他文章。
