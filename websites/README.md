@@ -117,7 +117,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 每次看都有新的收获
 - [拟声拟态词](https://www2.ninjal.ac.jp/Onomatope/)
   - 如题
-- [复合动词学习手册](https://db4.ninjal.ac.jp/vvlexicon/db/)
+- [複合動詞レキシコン](https://vvlexicon.ninjal.ac.jp/db/)
   - 综日书讲得太散了点
 
 # 论文相关
