@@ -18,7 +18,6 @@
 
 - [青空文库](https://www.aozora.gr.jp)
 - 补充一下，这个网站每天都会更新一篇文章，通过 RSS 可以订阅
-- ~~这个东西学日语的没有谁不知道，我只是补充一下这个可以与[青空キンドル](http://a2k.aill.org/)搭配一起，让电子书的排版更美观。~~2022-08-09 网站停止维护，现在只能自己转了
 
 考虑到官网提供的是 HTML 和 TXT，实际观看体验确实不太好，下面介绍几个常用的第三方工具
 
@@ -139,13 +138,11 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 判定文章所用词汇的难易度，按照 JLPT 难度进行划分
 - [日本語文章難易度判別システム](https://jreadability.net/sys/ja)
   - 也能判定文章所用词汇的难易度，但不是按照 JLPT 难度划分，会返回更多数据
-- [寺村误用例集](https://db4.ninjal.ac.jp/teramuradb/db/)
-  - 想写好作文的可以仔细揣摩网站上给的例句。
 - [少纳言——书面语用例大全](http://www.kotonoha.gr.jp/shonagon/)
   - 如题
 - [NINJAL-LWP for TWC](https://tsukubawebcorpus.jp/)
   - 除了可检索单个词汇在各种情况和接续方式下的使用频率，还可以比较两个词汇的使用频率。
-- [简约版本](https://hinoki-project.org/natsume/)
+- [日本語作文支援システム「なつめ」](https://hinoki-project.org/natsume/)
   - 和上一个数据库的用途基本相同，但是缺少了词汇比较的功能。风格非常简约，检索方式和浏览页面简洁明了
 - [中国重要政治词汇对外翻译](http://210.72.20.108/app/special/index.jsp%5D)
   - 虽然不太感冒，但有时还是会用
@@ -257,6 +254,12 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 收录了很多汉文训读的诗歌
 - [漢文 HTML](https://phesoca.com/kanbun-html/)
   - 通过 HTML 语法实现精美的汉文排版
+
+# 已下线网站
+
+- [青空キンドル](http://a2k.aill.org/)让青空文库的电子书的排版更美观。
+- [寺村误用例集](https://db4.ninjal.ac.jp/teramuradb/db/)
+  - 想写好作文的可以仔细揣摩网站上给的例句。
 
 # 参考
 
