@@ -66,7 +66,7 @@
 
 ## [AnkiHelper](https://github.com/mmjang/ankihelper)
 
-这个实际上要与Anki搭配使用，上手难度极大，可以参考作者的[Anki03_AnkiHelper](PureWriter/Anki03_AnkiHelper.md)
+这个实际上要与Anki搭配使用，上手难度极大，可以参考这个回答[有哪些背日语单词的app推荐?](https://www.zhihu.com/question/36247408/answer/2672293167) 
  
 # Windows 端
 
