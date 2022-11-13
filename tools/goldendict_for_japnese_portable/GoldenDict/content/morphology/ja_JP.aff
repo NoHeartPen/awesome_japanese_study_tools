@@ -139,8 +139,9 @@ SFX	f1	Y	1
 SFX	f1	0	ない	.
 SFX	f2	Y	1	
 SFX	f2	0	ぬ	.
-SFX	f3	Y	1	
+SFX	f3	Y	2	
 SFX	f3	0	ず	.
+SFX	f3	0	ざる	.
 SFX	f4	Y	1	
 SFX	f4	0	ん	.
 SFX	f5	Y	1	

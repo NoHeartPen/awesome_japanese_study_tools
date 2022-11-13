@@ -62,7 +62,7 @@
 
 作者提供了免 Google 框架的免费版本的APK文件：[EBPocket.apk](http://ebstudio.info/download/ebpocket/1_15_0/EBPocket.apk)，但是这个非常旧了，虽然能用，但是不能加载太多的词典。
 
-词典资源可以参考[【资源分享】史上最强词典EBPocket安装教程+24G词典资源免费放送](https://mp.weixin.qq.com/s/RYUHtLszaD6I7enp518L-g)和知乎这个回答
+词典资源可以参考[【资源分享】史上最强词典EBPocket安装教程+24G词典资源免费放送](https://mp.weixin.qq.com/s/RYUHtLszaD6I7enp518L-g)和知乎这个回答[有什么好用的日语词典软件？](https://www.zhihu.com/question/37052233/answer/152462501)
 
 ## [AnkiHelper](https://github.com/mmjang/ankihelper)
 
