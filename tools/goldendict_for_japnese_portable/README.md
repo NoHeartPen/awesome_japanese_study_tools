@@ -1,3 +1,10 @@
+本文发布在如下平台：
+
+[Gitee](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/goldendict_for_japnese_portable)
+[Github](https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/goldendict_for_japnese_portable)
+[语雀](https://www.yuque.com/noheartpen/pm4130/cbt51l?)
+[知乎](https://zhuanlan.zhihu.com/p/583128753)
+
 # 介绍
 
 ## 为什么更推荐GoldenDict而不是EBWin
@@ -37,9 +44,11 @@ EBWin的优点：对于 Epwing 的完美支持——部分日语词典只有这�
 
 对于想在 Windows 上使用的同学，打开这个链接[https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/goldendict_for_japnese_portable](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/goldendict_for_japnese_portable)，点一下`goldendict_japanese_portable.zip`，注册账号，登录下载就可以了，有时间的话可以看一下`README.md`，里面有些注意事项。
 
+提醒：只需要下载[goldendict_for_japnese_portable.zip](goldendict_for_japnese_portable.zip)文件即可，其他文件可以不管。
+
 ## 下载词典
 
-受限与版权和字典大小，这里只列举链接，请根据自己的需要下载，另外，网上也有很多人分享，大多来自下3个网站，有可能会比较旧，有时间、有需要的话，自己在下面3个网站慢慢搜罗吧[有什么好用的日语词典软件？ - 游方的回答 - 知乎](https://www.zhihu.com/question/37052233/answer/72856818) ：
+受限与版权和字典大小，这里只列举链接，请根据自己的需要下载，另外，网上也有很多人分享，比如[有什么好用的日语词典软件？ - 游方的回答 - 知乎](https://www.zhihu.com/question/37052233/answer/72856818)。但其实，它们大多来自以下3个网站，其他人分享的有可能会比较旧，有时间、有需要的话，自己在下面3个网站慢慢搜罗吧 ：
 
 ### [Mdict](https://mdict.org/post/mdx/)
 
@@ -53,20 +62,33 @@ EBWin的优点：对于 Epwing 的完美支持——部分日语词典只有这�
 
 也可以下载到一些词典，但要花时间慢慢找，但有的帖子需要注册登录才能访问，而且现在也没有新的的作品了，所以放到最后。
 
-## 第一次启动软件
+这里也放一个我自己收集整理的，但不会更新维护：
+
+天翼云盘(只有我自己最常用的词典，对于大多数人，完全够用了)：[https://cloud.189.cn/t/MzEVnyMNFbQb](https://cloud.189.cn/t/MzEVnyMNFbQb)
+访问码：hf8z（先转存到自己的账号，然后下载客户端就可以不限速批量下载了哈）
+	客户端地址：[https://cloud.189.cn/web/static/download-client/index.html](https://cloud.189.cn/web/static/download-client/index.html)
+
+123网盘（我自己整理过的，不限于Goldendict和EBWin，还有PDF和Kindle）[https://www.123pan.com/s/iGz0Vv-Z5vVh](https://www.123pan.com/s/iGz0Vv-Z5vVh)
+
+百度网盘（Store是我找到的所有分享）：[https://pan.baidu.com/s/1NOBbbmcrohiA4QzP7mx_gQ?pwd=05ge](https://pan.baidu.com/s/1NOBbbmcrohiA4QzP7mx_gQ?pwd=05ge)
+提取码：05ge
+
+# 第一次启动软件
 
 下载好之后，找个地方解压，找到`content`文件夹，把之前下载的字典文件拖进去（EBWin和EBPockect的词典放到这里面也是可以加载的），然后双击`GoldenDict.exe`运行就可以了（第一次启动需要比较长的时间，以后会短得多）
 ![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220903132416.png)
+启动之后到`编辑`-`词典`
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20221114002404.png)
+到`群组`里面，在左边选中自己要看的词典，按住右键拖到右边就可以了
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20221114002212.png)
 
-启动完成后，检查下软件的剪贴板查词功能是否打开：`编辑`-`首选项`-`热键`-`使用下列热键翻译剪贴板中的单词`，可以按照按自己习惯设置快捷键。
+然后，检查下软件的剪贴板查词功能是否打开：`编辑`-`首选项`-`热键`-`使用下列热键翻译剪贴板中的单词`，可以按照按自己习惯设置快捷键。
 
 ![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20221113151730.png)
 
-然后就可以愉快地划词阅读了！~~快去和青空文库对线吧~~
+恭喜！你已经完成了所有基本设置，可以愉快地划词阅读了！~~快去和青空文库对线吧~~
 
 ![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//班群_非辞書演示_动词.gif)
-
-只需要下载[goldendict_for_japnese_portable.zip](goldendict_for_japnese_portable.zip)文件即可，其他文件可以不管。
 
 # 高级自定义
 
@@ -92,7 +114,7 @@ body
 }
 ```
 在`font-family: `后面用""包裹你要替换的字体的名字，注意不是`字体的文件名`，是字体安装界面显示的`字体名称`
-![](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com/20220823111051.png)
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com/20220823111051.png)
 
 另外，有部分字体的字体名称需要参考[中文字体的英文名称对照表](https://xuui.net/ui-design/english-name-of-chinese-characters-table.html)要求。
 
@@ -132,13 +154,18 @@ body {
 
 ## 如何同步查词记录
 
-可以使用本人写的小脚本`goldendic2eudic`，一次设置，永远自动同步到欧路，不会查了就忘:)
+可以使用本人写的小脚本`goldendic2eudic`，一次设置，永远自动同步到欧路词典，不会查了就忘:)
 
 https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/golden2eudic
 
 不能访问Google的同学请用这个：
 https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/golden2eudic
 
+EBWin也有一个同步查词记录的工具：
+
+https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/ebwin2eudic
+
+https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/ebwin2eudic
 
 # 其他平台
 
@@ -152,11 +179,11 @@ https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/gold
 
 ## 安卓
 
-和用 EBPockect 基本一样，安装好软件之后，到`账号`-`软件设置`-`扩充词库路径`指定词典文件的文件夹即可，注意欧路不支持加载EBPockect格式的词典！
+和用 EBPockect 基本一样，安装好软件之后，到`账号`-`软件设置`-`扩充词库路径`指定词典文件的文件夹即可，注意欧路不支持加载 EBPockect 格式的词典！
 
 对于安卓的同学，强烈推荐下载静读天下（静读天下是个用来看电子书的软件，支持非常多的格式，标注过的地方可以直接点击查词，相当于自己标出不认识的单词后下次就可以节省打字的时间了，搭配《日本語非辞書形辞典》，一晚读完青空文库不是梦！
 
-<img src="https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Screenrecorder-2022-03-11-09-59-12-769%2000_00_00-00_00_30.gif" width="500">
+![|500](https://markdoen-1304943362.cos.ap-nanjing.myqcloud.com//Pasted_image_20220903133947.png)
 
 静读天下的开发者人似乎润到了香港，所以软件没有在国内的软件商店上架，但针对国内用户提供了免 Google 框架的 APK 文件放在官网的最下面的地方：
 [Moon+ Reader for Android (moondownload.com)](https://moondownload.com/chinese.html)
@@ -166,4 +193,5 @@ https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/gold
 # 参考
 
 [ GoldenDict 中文用户手册](https://github.com/Dictionaryphile/GoldenDict_zh_manual)
+[有没有什么好用的日语app词典？ - NoHeartPen的回答 - 知乎](https://www.zhihu.com/question/41084276/answer/2641329951) 
 
