@@ -2,7 +2,7 @@
 
 [Gitee](https://gitee.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/goldendict_for_japnese_portable)
 [Github](https://github.com/NoHeartPen/awesome_japanese_study_tools/tree/master/tools/goldendict_for_japnese_portable)
-[语雀](https://www.yuque.com/noheartpen/pm4130/cbt51l?)
+[语雀](https://www.yuque.com/noheartpen/hbrngk/ndwk94c1m4g6lv7w)
 [知乎](https://zhuanlan.zhihu.com/p/583128753)
 
 # 介绍
@@ -25,7 +25,8 @@ EBWin的优点：对于 Epwing 的完美支持——部分日语词典只有这�
 1. 收费
 2. 不能加载Epwing格式的词典
 
-但是，欧路词典的在线词典功能算是目前做的最好的，如果你对这个功能有兴趣，可以看看这个回答：
+但是，欧路词典的在线词典功能算是目前做的最好的，如果对这个功能有兴趣，可以看看这个回答 [有什么好用的日语词典软件？](https://www.zhihu.com/question/37052233/answer/2015870761)
+
 
 # 特性
 
