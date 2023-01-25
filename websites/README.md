@@ -18,7 +18,6 @@
 
 - [青空文库](https://www.aozora.gr.jp)
 - 补充一下，这个网站每天都会更新一篇文章，通过 RSS 可以订阅
-- ~~这个东西学日语的没有谁不知道，我只是补充一下这个可以与[青空キンドル](http://a2k.aill.org/)搭配一起，让电子书的排版更美观。~~2022-08-09 网站停止维护，现在只能自己转了
 
 考虑到官网提供的是 HTML 和 TXT，实际观看体验确实不太好，下面介绍几个常用的第三方工具
 
@@ -91,7 +90,6 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 之所以放在后面就是因为难度比较大，而且有时候会听不了……
 
-至于这种生肉，如何核对自己听得是否正确可以参考
 
 ## 日テレ NEWS
 
@@ -113,12 +111,21 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 # 语法讲解
 
-- [基本动词手册](https://verbhandbook.ninjal.ac.jp/)
+- [基本動詞ハンドブック](https://verbhandbook.ninjal.ac.jp/)
   - 每次看都有新的收获
 - [拟声拟态词](https://www2.ninjal.ac.jp/Onomatope/)
   - 如题
 - [複合動詞レキシコン](https://vvlexicon.ninjal.ac.jp/db/)
-  - 综日书讲得太散了点
+  - 语法书讲得太散了点
+
+# 文章难易度判断
+
+- [チュウ太の道具箱](https://chuta.cegloc.tsukuba.ac.jp/tools.html)
+  - 判定文章所用词汇的难易度，按照 JLPT 难度进行划分
+- [日本語文章難易度判別システム](https://jreadability.net/sys/ja)
+  - 也能判定文章所用词汇的难易度，但不是按照 JLPT 难度划分，会返回更多数据
+- [学習項目解析システム](https://lias.cegloc.tsukuba.ac.jp/)
+  - 能判定文章所用语法的难易度，但不是按照 JLPT 难度划分
 
 # 论文相关
 
@@ -135,17 +142,15 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 ## 语言学
 
-- [チュウ太の道具箱](https://chuta.cegloc.tsukuba.ac.jp/tools.html)
-  - 判定文章所用词汇的难易度，按照 JLPT 难度进行划分
-- [日本語文章難易度判別システム](https://jreadability.net/sys/ja)
-  - 也能判定文章所用词汇的难易度，但不是按照 JLPT 难度划分，会返回更多数据
-- [寺村误用例集](https://db4.ninjal.ac.jp/teramuradb/db/)
-  - 想写好作文的可以仔细揣摩网站上给的例句。
 - [少纳言——书面语用例大全](http://www.kotonoha.gr.jp/shonagon/)
   - 如题
+- [中納言 コーパス検索アプリケーション](https://chunagon.ninjal.ac.jp/)
+  - 需要注册才能使用
+  - 注册流程参考[【日语语料库】中纳言的注册与使用（BCCWJ）](https://www.bilibili.com/video/BV1TF411J7wB/)
+  - 使用方法参考[『日本語日常会話コーパス』―『中納言』の操作（講師 : 柏野和佳子）](https://youtu.be/7fSbEvbTmjc)
 - [NINJAL-LWP for TWC](https://tsukubawebcorpus.jp/)
   - 除了可检索单个词汇在各种情况和接续方式下的使用频率，还可以比较两个词汇的使用频率。
-- [简约版本](https://hinoki-project.org/natsume/)
+- [日本語作文支援システム「なつめ」](https://hinoki-project.org/natsume/)
   - 和上一个数据库的用途基本相同，但是缺少了词汇比较的功能。风格非常简约，检索方式和浏览页面简洁明了
 - [中国重要政治词汇对外翻译](http://210.72.20.108/app/special/index.jsp%5D)
   - 虽然不太感冒，但有时还是会用
@@ -239,6 +244,9 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 可以找到近现代日本画家的作品列表及其所在信息
 - [美术人名辞典](http://www.shibunkaku.co.jp/biography/])
   - 访问速度有点慢，但确实是一本辞典
+- [東京大学史料編纂所数据库](https://wwwap.hi.u-tokyo.ac.jp/ships/)
+  - 收集大量史学研究会用到的网站
+  - 介绍视频：[東京大学史料編纂所数据库](https://www.bilibili.com/video/BV13v4y1k7tG/)
 
 # 其他
 
@@ -249,7 +257,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 - [教案　初級文型とみんなの日本語の導入・練習・活動例](https://jn1et.com/kyouan/)
   - 以『みんなの日本語 第 2 版』为基准的教案设计，考教资的同学可以看一看
 - [日本語文章校正チェックサービス](https://opendata-web.site/tool/kousei/)
-  - 如题，可以简单地修改一些文章的小错误
+  - 如题，可以修改一些小错误
 
 ## 汉文
 
@@ -257,6 +265,12 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
   - 收录了很多汉文训读的诗歌
 - [漢文 HTML](https://phesoca.com/kanbun-html/)
   - 通过 HTML 语法实现精美的汉文排版
+
+# 已下线网站
+
+- [青空キンドル](http://a2k.aill.org/)让青空文库的电子书的排版更美观。
+- [寺村误用例集](https://db4.ninjal.ac.jp/teramuradb/db/)
+  - 想写好作文的可以仔细揣摩网站上给的例句。
 
 # 参考
 
@@ -273,6 +287,8 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 [ 有什么好用的日语词典软件？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/37052233/answer/2015870761)
 
 [豆瓣\_日本艺术史网络资源](https://www.douban.com/group/topic/28716549/?_i=29662804BPw6Kx)
+
+[狐狸等间隔的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/65242098)
 
 感谢 Ta 们的无私分享:)
 
