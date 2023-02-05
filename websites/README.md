@@ -1,10 +1,8 @@
-注：本文发布在如下平台有备份：
+注：本文在如下平台有备份：
 
-[日语学习网站-语雀](https://www.yuque.com/noheartpen/pm4130/shhg25)
-
-[日语学习网站 - 知乎](https://zhuanlan.zhihu.com/p/571025834)
-
-[Github 项目地址](https://github.com/NoHeartPen/awesome_japanese_study_tools/blob/master/websites/README.md)
+[语雀](https://www.yuque.com/noheartpen/pm4130/shhg25)
+[知乎](https://zhuanlan.zhihu.com/p/571025834)
+[Github](https://github.com/NoHeartPen/awesome_japanese_study_tools/blob/master/websites/README.md)
 
 # 辞典类
 
@@ -49,7 +47,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 [https://ndlonline.ndl.go.jp/#!/](https://ndlonline.ndl.go.jp/#!/)
 
-搜索的时候注意，只有「インタネット公開」的书才能免注册登录，其他基本只能看看目录
+搜索的时候注意，只有「インタネット公開」的书才能免注册登录查看，其他基本只能看看目录
 
 ## ZLibrary
 
@@ -70,38 +68,29 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 
 # 听
 
-除了在 B 站上面找，也可以用下面的网站。
+## 双语字幕视频
 
-## NEWS WEB EASY
+[诸神字幕组](https://subs.kamigami.org/)：纪录片和动漫都有
 
-[https://www3.nhk.or.jp/news/easy/](https://www3.nhk.or.jp/news/easy/)
+[银色子弹数据站 – 银色子弹](https://www.sbsub.com/data/)：只做《名侦探柯南》
 
-相当于慢速版的 NHK，但听起来很像机器合成的声音，比较适合拿来做口译的训练材料。
+[历史独角兽的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/21740080)：NHK的历史纪录片为主
 
-## NHK 高校讲座
+[NHK 高校讲座](http://www.nhk.or.jp/kokokoza/)针对日本高中生的网课小视频，字幕可以自由开关
 
-[http://www.nhk.or.jp/kokokoza/](http://www.nhk.or.jp/kokokoza/)
+使用[蜜柑计划](https://mikanani.me/)和[奈斯搜索](https://www.niceso.fun/)等工具搜索时可以加上“中日”、“双语”等关键字
 
-针对日本高中生的网课小视频，都有可以开关的字幕，很适合低年级用来精听。
+## 新闻
 
-## NHK ラジオニュース
+[NEWS WEB EASY](https://www3.nhk.or.jp/news/easy/)：相当于慢速版的 NHK，但听起来很像机器合成的声音，比较适合拿来做口译的训练材料。
 
-[https://www.nhk.or.jp/radionews/](https://www.nhk.or.jp/radionews/)
+[ANNnewsCH](https://www.youtube.com/@ANNnewsCH/videos)：每个视频都会有配套的文稿（字幕）贴在简介，非常适合精听
 
-之所以放在后面就是因为难度比较大，而且有时候会听不了……
+[テレ東BIZ](https://www.youtube.com/@tvtokyobiz/videos)：经济新闻为主，每个视频也都会有配套的文稿贴在简介，也非常推荐
 
+[ABCテレビニュース](https://www.youtube.com/@abc6ch/videos)： 简介的第一句话是新闻的概述，后面才是配套的文稿，如果要做サマライズ，这个是很好网站
 
-## 日テレ NEWS
-
-[https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/videos](https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/videos)
-
-会发比较短的新闻，适合用来精听
-
-## 3Blue1BrownJapan
-
-[https://www.youtube.com/c/3Blue1BrownJapan/videos](https://www.youtube.com/c/3Blue1BrownJapan/videos)
-
-非常有名的数学科普类视频，日语配音版，不过数量不多。
+[NHK ラジオニュース](https://www.nhk.or.jp/radionews/)：纯音频，无字幕，而且有时候会听不了
 
 ## 青空朗読
 
@@ -116,7 +105,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 - [拟声拟态词](https://www2.ninjal.ac.jp/Onomatope/)
   - 如题
 - [複合動詞レキシコン](https://vvlexicon.ninjal.ac.jp/db/)
-  - 语法书讲得太散了点
+  - 综日书讲得太散了点
 
 # 文章难易度判断
 
@@ -245,9 +234,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 - [美术人名辞典](http://www.shibunkaku.co.jp/biography/])
   - 访问速度有点慢，但确实是一本辞典
 - [東京大学史料編纂所数据库](https://wwwap.hi.u-tokyo.ac.jp/ships/)
-  - 收集大量史学研究会用到的网站
-  - 介绍视频：[東京大学史料編纂所数据库](https://www.bilibili.com/video/BV13v4y1k7tG/)
-
+	- 
 # 其他
 
 - [OJAD - 韻律読み上げチュータ スズキクン)](http://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing/index)
@@ -257,7 +244,7 @@ Blog：[読書尚友](https://ebstudio.hatenablog.com/archive/category/%E8%AA%AD
 - [教案　初級文型とみんなの日本語の導入・練習・活動例](https://jn1et.com/kyouan/)
   - 以『みんなの日本語 第 2 版』为基准的教案设计，考教资的同学可以看一看
 - [日本語文章校正チェックサービス](https://opendata-web.site/tool/kousei/)
-  - 如题，可以修改一些小错误
+  - 如题，可以简单地修改一些文章的小错误
 
 ## 汉文
 
