@@ -1,6 +1,6 @@
 # 赛高の日语学习工具
 
-![Static Badge](https://img.shields.io/badge/style-markdownlint-blue?link=https%3A%2F%2Fgithub.com%2FDavidAnson%2Fmarkdownlint)
+![Static Badge](https://img.shields.io/badge/style-markdownlint-blue) ![Static Badge](https://img.shields.io/badge/license-CC_BY--NC-blue)
 
 ## 前言
 
@@ -58,7 +58,7 @@
 
 ## 参与项目
 
-如果你不愿意折腾，你可以直接将你写好的内容留在[issue](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues)或者发送到我的邮箱 NoHeartPen@outlook.com ，什么格式都可以，我会帮你整理成项目的通用格式。
+如果你不愿意折腾，你可以直接将你写好的内容留在 [issue](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues) 或者发送到我的邮箱 NoHeartPen@outlook.com ，什么格式都可以，我会帮你整理成项目的通用格式。
 
 如果你愿意自己动手，那你先读一下这篇非常简单的 [Markdown](https://www.runoob.com/markdown/md-tutorial.html) 教程，然后打开一个你喜欢的编辑器（手机的便签软件、记事本、Word、印象笔记……都可以），但我建议你选用一个足够可靠，不会丢失的编辑器（比如纯纯写作、Notion、Obsidian、notepad……等等），不推荐直接在 GitHub 上编辑，有可能辛辛苦苦写了半天却由于网络原因什么也没有留下来。你可以慢慢想、慢慢写，就当是一次自己与日语的对话好了。
 
