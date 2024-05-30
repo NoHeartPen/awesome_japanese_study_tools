@@ -1,5 +1,7 @@
 # 赛高の日语学习工具
 
+![Static Badge](https://img.shields.io/badge/style-markdownlint-blue?link=https%3A%2F%2Fgithub.com%2FDavidAnson%2Fmarkdownlint)
+
 ## 前言
 
 之所以会有这个计划，是受了[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)项目的启发，所以就直接引用原项目的前言了：
