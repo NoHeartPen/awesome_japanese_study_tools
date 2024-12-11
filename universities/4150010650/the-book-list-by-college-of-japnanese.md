@@ -100,4 +100,4 @@
 
 # 贡献者
 
-- @[NoHeartPen](https://github.com/NoHeartPen)：本人将 Excel 整理为了这个Markdown 文档，只修改了若干标点和和错别字。~~从推荐理由似乎可以猜到出自哪位老师呢:)~~
+- @[NoHeartPen](https://github.com/NoHeartPen)：本人将 Excel 整理为了这个Markdown 文档，只修改了若干标点和错别字。~~从推荐理由似乎可以猜到出自哪位老师呢:)~~
