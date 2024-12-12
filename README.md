@@ -4,7 +4,7 @@
 
 ## 前言
 
-之所以会有这个计划，是受了[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)项目的启发，所以就直接引用原项目的前言了：
+之所以会有这个计划，是受了 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) 项目的启发，所以就直接引用原项目的前言了：
 
 > 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 >
@@ -73,4 +73,4 @@
 
 ## 许可证
 
-除非特殊说明，本项目的文章都基于[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)许可。
+除非特殊说明，本项目的文章都基于 [CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可。
