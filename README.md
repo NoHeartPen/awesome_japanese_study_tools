@@ -39,7 +39,7 @@
 如果愿意帮助维持这个项目继续推进可以：
 
 - 让更多同学发现这个项目：在 Github 主页，点击右上角的 ★Star 按钮收藏本项目，向有需要的人介绍这个项目；
-- 在[issue](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues)为项目修改错别字用词、提出建议；
+- 在 [issue](https://github.com/NoHeartPen/awesome_japanese_study_tools/issues) 提出建议；
 - 通过邮箱 <NoHeartPen@outlook.com> 与我沟通；
 - 提交 PR；
 
