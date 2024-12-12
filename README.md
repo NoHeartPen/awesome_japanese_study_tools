@@ -26,9 +26,9 @@
 
 [guide](guide)：收录系统性的日语学习教程。
 
-[tools](tools)：收录各类日语学习软件。
+[tools](tools)：收录日语相关软件。
 
-[websites](websites)：收录日语学习网站，包括但不限于：词典网站、语料库、教学视频。
+[websites](websites)：收录日语相关网站。温馨提示：这里会收录大量从事日语相关学术研究才会用到的网站。如果只是出于爱好自学日语，请优先考虑 [guide](guide) 下介绍的网站。
 
 [universities](universities)：收录日语专业的生存指南。
 
