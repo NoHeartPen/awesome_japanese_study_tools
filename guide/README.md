@@ -1,3 +1,5 @@
 # 日语学习教程
 
 [记住，你永远也没法学会外语](thoughts-memo-zhihu-564422318.md)：无论你是正在学语言，或是有学好一门外语的想法但尚未下定决心，我都建议你认真地读这篇文章，这也许可以帮助你少走几年语言学习的弯路。
+
+[jpgramma - 日语语法指南](https://res.wokanxing.info/jpgramma/index.html)：外网广受好评的的《Tae Kim Japanese Grammar Guide》的中文翻译。
